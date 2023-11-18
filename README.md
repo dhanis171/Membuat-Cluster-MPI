@@ -164,6 +164,7 @@ Hello world from worker 2 of 4
 Hello world from worker 0 of 4
 ```
 Contoh:
+Kami juga menggunakan code bs dan mn yang telah di sediakan
 </br>
 ![Run - Master.jpeg](https://github.com/Arditriyudha/Open-MPI/blob/main/Run%20-%20Master.jpeg)
 
